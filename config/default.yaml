@@ -1,0 +1,19 @@
+port: 3002
+chain-id: cosmoshub-3
+
+node-uri: http://node01.ip.sx:1317
+node-uri-mainnet: http://node01.ip.sx:1317
+node-uri-testnet: http://node01.ip.sx:1317
+
+signature-api-identifier-1: hot_wallet
+signature-api-ip-1: http://localhost
+signature-api-port-1: 3003
+
+signature-api-identifier-2: warm_wallet
+signature-api-ip-2: http://localhost
+signature-api-port-2: 2997
+
+signature-api: http://localhost:3003
+
+apikey-ip: http://localhost
+apikey-port: 3888
